@@ -1,0 +1,66 @@
+/*
+
+COLORS
+#E91E63:dark pink
+#8BC34A:green
+#ffffff:white
+
+*/
+
+/* Makes the top nav pink */
+.bg-dark {
+  background: #E91E63!important;
+}
+
+.card-text {
+  font-size: 1.2em;
+}
+
+.card-footer {
+  background: #E91E63;
+}
+
+.card-title {
+  font-weight: bold;
+  color: #E91E63;
+}
+
+.btn {
+  color: #fff!important;
+  font-size: 1.5em;
+}
+
+.smalldogs {
+  background: #8BC34A;
+}
+
+p.footerinfo {
+  margin-bottom: 20px!important;
+}
+
+a.googlemap {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+iframe {
+  border: 5px solid white;
+  margin-top: 50px;
+}
+
+.outside {
+  border: 5px solid white;
+}
+
+.cta {
+  background: #8BC34A;
+  color: #000;
+}
+
+.address {
+  font-size: 1.2em;
+}
+
+hr {
+  border-top: 6px dotted white;
+}
