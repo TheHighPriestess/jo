@@ -37,6 +37,9 @@ a.googlemap:hover {
 
 .card-body {
   background: #E4FFA3;
+  border-top:2px solid #8BC24A;
+  border-left:2px solid #8BC24A;
+  border-right:2px solid #8BC24A;
 }
 
 .card-footer {
