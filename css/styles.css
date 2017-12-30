@@ -21,18 +21,19 @@ footer.py-5 {
 
 p.footerinfo {
   margin-bottom: 20px!important;
-  font-size: 1em;
 }
 
 a.googlemap {
   text-decoration: underline;
 }
 
-a.googlemap:hover {
+a.googlemap:hover, a.phone:hover {
   color: #454545;
 }
+
+
 .card-text {
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .card-body {
@@ -47,12 +48,12 @@ a.googlemap:hover {
 }
 
 .card-title {
-  font-weight: bold;
+  /*font-weight: bold;*/
   color: #454545;
 }
 
 .btn {
-  color: #fff!important;
+  color: #454545!important;
   font-size: 1.2em;
 }
 
@@ -61,13 +62,19 @@ a.googlemap:hover {
 }
 
 .outside {
-  border: 3px solid #8BC24A;
+  border: 10px solid #8BC24A;
 }
 
 .address {
-  font-size: 1.35em;
-  margin-bottom: 20px;
+  font-size: 1.15em;
   letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+.phone {
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  margin-right: 10px;
 }
 
 .greektitle {
