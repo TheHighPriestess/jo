@@ -57,6 +57,10 @@ a.googlemap:hover, a.phone:hover {
   font-size: 1.2em;
 }
 
+.btn:hover {
+  font-weight: normal;
+}
+
 .smalldogs {
   background: #8BC34A;
 }
